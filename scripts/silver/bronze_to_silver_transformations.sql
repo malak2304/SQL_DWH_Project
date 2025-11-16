@@ -5,7 +5,7 @@
 --          and loads it into the staging/silver layer tables.
 --------------------------------------------------------------------------
 */
-EXEC silver.load_silver
+
 GO
 
 CREATE OR ALTER PROCEDURE silver.load_silver AS
